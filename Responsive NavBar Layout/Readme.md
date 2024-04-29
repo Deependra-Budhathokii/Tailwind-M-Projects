@@ -15,7 +15,7 @@ Outline the color palette for the navbar. Include hex codes for consistency.
 - nav menu hover color : `text-gray-500`
 - Primary color: `#hexcode`
 - Secondary color: `#hexcode`
-- Accent color: `#hexcode`
+<!-- - Accent color: `#hexcode` -->
 
 ## Typography
 Detail the typography choices for the navbar. Include font families, sizes, and any particular styling considerations.
